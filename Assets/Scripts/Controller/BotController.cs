@@ -10,7 +10,7 @@ using Utilities;
 //How are you?
 //i'm fine
 
-//The owls are not what they seem d.
+//The Owls are not what they seem.
 namespace Controller
 {
     public class BotController
