@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\UnityProjects\\FirstProject\\Fork\\CSharpMainProjectMyFork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C12C09C7-888C-7364-148B-3BC33A05AB3F}|Root.csproj|C:\\Users\\USER\\Desktop\\UnityProjects\\FirstProject\\Fork\\CSharpMainProjectMyFork\\assets\\scripts\\controller\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C12C09C7-888C-7364-148B-3BC33A05AB3F}|Root.csproj|c:\\users\\user\\desktop\\unityprojects\\firstproject\\fork\\csharpmainprojectmyfork\\assets\\scripts\\controller\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C12C09C7-888C-7364-148B-3BC33A05AB3F}|Root.csproj|solutionrelative:assets\\scripts\\controller\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C12C09C7-888C-7364-148B-3BC33A05AB3F}|Root.csproj|c:\\users\\user\\desktop\\unityprojects\\firstproject\\fork\\csharpmainprojectmyfork\\assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C12C09C7-888C-7364-148B-3BC33A05AB3F}|Root.csproj|C:\\Users\\USER\\Desktop\\UnityProjects\\FirstProject\\Fork\\CSharpMainProjectMyFork\\assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C12C09C7-888C-7364-148B-3BC33A05AB3F}|Root.csproj|solutionrelative:assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -140,7 +140,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\BotController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\UnityProjects\\FirstProject\\Fork\\CSharpMainProjectMyFork\\Assets\\Scripts\\Controller\\BotController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controller\\BotController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T10:41:25.891Z",
               "EditorCaption": ""
@@ -155,8 +155,7 @@
               "RelativeToolTip": "Assets\\Scripts\\EnterPoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T10:41:25.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T10:41:25.893Z"
             }
           ]
         }
